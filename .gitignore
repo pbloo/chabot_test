@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+# Ambiente virtual do Python
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente (segurança)
+.env
+
+# Configurações pessoais do VS Code (opcional)
+.vscode/
